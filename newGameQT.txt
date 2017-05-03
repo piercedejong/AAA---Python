@@ -1,0 +1,10 @@
+#Bank
+[33,41,26,43,11,30,11,24,0]
+#Income
+[33,41,26,43,11,30,11,24,0]
+#Nation turn
+0
+#Round number
+1
+#Axis Capitols
+9

@@ -1,0 +1,6 @@
+['Germany ', 'USSR ', 'Japan ', 'America ', 'China ', 'Britain ', 'Italy ', 'ANZAC ', 'France ']
+[50, 86, 72, 132, 22, 74, 24, 26, 0]
+[28, 43, 24, 44, 11, 37, 12, 13, 0]
+4
+11
+2
